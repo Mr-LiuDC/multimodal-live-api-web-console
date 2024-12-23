@@ -1,0 +1,12 @@
+.mobile-panel {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+
+  .video-area {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
