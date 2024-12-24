@@ -8,5 +8,14 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    position: relative;
+  }
+
+  .sample-video {
+    flex-grow: 0.5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
   }
 }
